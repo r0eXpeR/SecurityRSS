@@ -2,6 +2,8 @@
 
 > 关于网络安全订阅源的推荐 - 充实你的订阅源，提高信息质量。**注意：部分 RSS 源在国外，需要进行代理访问。可以配合 Proxifier 进行订阅。**
 
+同步访问地址：https://forum.ywhack.com/bountytips.php?RSS
+
 ### RSS 客户端
 
 > 以下只推荐了一些比较常见的 RSS 客户端，其它优秀的客户端也有很多，Github有个非常棒的项目，作者整理了一些关于 RSS 的应用/资料，可以点击链接进行前往查看：[https://github.com/AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)
